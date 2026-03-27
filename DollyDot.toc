@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: DollyDot
+## Notes: Prints text in /say and /yell when the user uses Meerah's jukebox.
+## Author: KDubs
+## Version: 1.0
+## SavedVariables: DollyDotDB
+
+DollyDot.lua
